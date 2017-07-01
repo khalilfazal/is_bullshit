@@ -12,8 +12,7 @@ class Object
     '',
     '0',
     'nil',
-    'null',
-    '🐮💩'
+    'null'
   ]
 
   def bullshit?
